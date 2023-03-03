@@ -1,2 +1,0 @@
-# learning-node-js
-@shapnertech
